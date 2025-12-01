@@ -1,9 +1,9 @@
 # Orbinuity Game Website
 
-[![License](https://img.shields.io/github/license/Orbinuity/orbinuitygame.github.io)](./LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/Orbinuity/orbinuitygame.github.io)](https://github.com/Orbinuity/orbinuitygame.github.io/commits)
+[![License](https://img.shields.io/github/license/OrbinuityGame/orbinuitygame.github.io)](./LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/OrbinuityGame/orbinuitygame.github.io)](https://github.com/OrbinuityGame/orbinuitygame.github.io/commits)
 [![Language](https://img.shields.io/badge/Language-HTML-blue)](https://www.reddit.com/r/HTML/)
-[![Made By](https://img.shields.io/badge/Made%20by-Orbinuity-teal)](https://orbinuity.github.io/)
+[![Made By](https://img.shields.io/badge/Made%20by-OrbinuityGame-teal)](https://games.orbinuity.nl/)
 
 [![Usage](https://img.shields.io/badge/How%20to%20use-brown)](./USAGE.md)
 
